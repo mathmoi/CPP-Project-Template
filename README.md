@@ -1,8 +1,6 @@
 # C++ Project Template
 
-Ceci est mon modèle pour les nouveau projets en C++. Il est volontairement simple, afin 
-de pouvoir être utilisé dans des cas très simple, mais il peut sevir de base pour des 
-projets plus complexes.
+This is my template for new C++ projects. It is deliberately simple, so that it can be used in very simple cases, but it can be used as a basis for more complex projects.
 
 ## TODO
 
